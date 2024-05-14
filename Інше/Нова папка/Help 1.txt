@@ -1,0 +1,24 @@
+List of commands:
+'read>' - reads value from the keyboard
+'write>' - prints value
+'if' - ordinary if-statement that works when the value is true
+'ifnot' - ordinary if-statement that works when the value is false
+'while' - ordinary while-loopt hat works when the value is false
+'whilenot' - ordinary while-loopt hat works when the value is false
+'=' - used to assign value to the variable
+
+List of supported operations:
+'+' - sum
+'-' - substract
+'*' - multiply 
+'/' - devide
+'sqrt' - squere root of
+'log' - logarift with base 10
+'==' - compares two values
+
+Array operations:
+'.append' - method to add new value in the end of the array
+'.sort' - method to sort the array
+'.reverse' - method to reverse the array
+'[n]' - index operator that gets value of n-th element (starts from zero)
+'[a, b, c, d]' - creates a new array with a, b, c, d values

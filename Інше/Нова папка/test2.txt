@@ -1,0 +1,29 @@
+READ firstNumber
+READ secondNumber
+READ operation
+CMP operation 1 t1
+GOTOIFNOT t1 8
+ADD firstNumber secondNumber t2
+COPY t2 result
+CMP operation 2 t3
+GOTOIFNOT t3 12
+SUB firstNumber secondNumber t4
+COPY t4 result
+CMP operation 3 t5
+GOTOIFNOT t5 16
+MUL firstNumber secondNumber t6
+COPY t6 result
+CMP operation 4 t7
+GOTOIFNOT t7 20
+DIV firstNumber secondNumber t8
+COPY t8 result
+CMP operation 5 t9
+GOTOIFNOT t9 24
+LOG firstNumber t10
+COPY t10 result
+CMP operation 6 t11
+GOTOIFNOT t11 28
+SQRT firstNumber t12
+COPY t12 result
+WRITE result
+
