@@ -1,0 +1,7 @@
+03/03/2023 02:50:17 - Launched the program, detected 2 data files.
+03/03/2023 02:50:39 - Selected 4 5 6.dat, read its content and properties.
+03/03/2023 02:51:31 - Selected 4 5 6.dat, read its content and properties.
+03/03/2023 02:53:17 - Selected 4 5 6.dat, read its content and properties.
+03/03/2023 02:55:47 - The sum of values from 4 5 6.dat replacing invalid values with 0 equals 13,54.
+03/03/2023 02:56:47 - The sum of values from 4 5 6.dat replacing invalid values with 2,41200000 equals 15,95200000.
+03/03/2023 02:58:03 - Selected 1 2 3.dat, read its content and properties.

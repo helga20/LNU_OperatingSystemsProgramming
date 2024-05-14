@@ -1,0 +1,1 @@
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\Нова папка\Lab1\SourceCode\TextEditor\obj\Debug\net6.0-windows\TextEditor.csproj.AssemblyReference.cache
