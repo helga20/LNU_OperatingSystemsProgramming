@@ -1,0 +1,30 @@
+D:\Навчання\8 семестр\TestApp\bin\Debug\net6.0\TestApp.exe
+D:\Навчання\8 семестр\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\Навчання\8 семестр\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json
+D:\Навчання\8 семестр\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\Навчання\8 семестр\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\Навчання\8 семестр\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+D:\Навчання\8 семестр\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\8 семестр\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\Навчання\8 семестр\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\Навчання\8 семестр\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Навчання\8 семестр\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\Навчання\8 семестр\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\Навчання\8 семестр\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\Навчання\8 семестр\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
+D:\Навчання\8 семестр\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\bin\Debug\net6.0\TestApp.exe
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\03\TestApp\obj\Debug\net6.0\ref\TestApp.dll

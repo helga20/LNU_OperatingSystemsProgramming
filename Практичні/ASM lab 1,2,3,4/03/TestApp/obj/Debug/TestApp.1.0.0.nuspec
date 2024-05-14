@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TestApp</id>
+    <version>1.0.0</version>
+    <authors>TestApp</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Навчання\8 семестр\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json" target="lib\net6.0\TestApp.runtimeconfig.json" />
+    <file src="D:\Навчання\8 семестр\TestApp\bin\Debug\net6.0\TestApp.dll" target="lib\net6.0\TestApp.dll" />
+  </files>
+</package>
