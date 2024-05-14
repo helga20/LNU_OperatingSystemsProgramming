@@ -1,0 +1,18 @@
+N	Лабораторна робота		Оцінка
+--------------------------------------
+1	lab1 text files			2
+2	lab2 filesattr			4
+3	lab3 com-prog			4
+4	lab4 asm-compiler		4
+5	lab5 DLL create			3
+6	lab6 DLLuse cpp			2
+7	lab7 DLLuse lang		3
+8	lab8 graph base			3
+9	lab9 operations			3
+10	lab10 addition			4
+11	lab11 simpleinterpret	6
+12	lab12 realinterpret		7
+--------------------------------------
+	Разом:					45
+
+** Оцінки за проєкти опубліковані в файлі "Критерії оцінювання Системне_прогр.pdf".  Там же опубліковані оцінки за контрольні роботи.
