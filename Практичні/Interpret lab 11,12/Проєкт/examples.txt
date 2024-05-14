@@ -1,0 +1,71 @@
+---
+
+read> a
+read> b
+d = -2
+ifnot[a - 2] {
+a = sqrt(a) + 2/b + 2*4 - (2 - b/4 + (2*a - 4)) - log(4+a*3)
+write> a
+if[b-1] {
+write> d
+}
+}
+b = 5
+c = Step
+while[b - 1] {
+b = b - 1
+temp = c
+write> temp
+write> b
+}
+arr = [1, 2, 6, 4]
+arr.sort()
+arr.reverse()
+write> arr
+r = last
+arr.append(r)
+arr[0] = first
+arr[2] = arr[1]
+write> arr
+b = arr[3]
+write> b
+
+----
+
+read> firstNumber
+read> secondNumber
+read> operation
+if[operation == 1] {
+result = firstNumber + secondNumber
+}
+if[operation == 2] {
+result = firstNumber - secondNumber
+}
+if[operation == 3] {
+result = firstNumber * secondNumber
+}
+if[operation == 4] {
+result = firstNumber / secondNumber
+}
+if[operation == 5] {
+result = log(firstNumber)
+}
+if[operation == 6] {
+result = sqrt(firstNumber)
+}
+write> result
+
+----
+
+read> first
+read> second
+read> third
+read> fourth
+arr = [first, second, third, fourth]
+c = arr[1]
+write>c
+arr.sort()
+write>arr
+arr.reverse()
+arr[3] = -1
+write>arr

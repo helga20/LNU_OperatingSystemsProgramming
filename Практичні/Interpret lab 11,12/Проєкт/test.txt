@@ -1,0 +1,22 @@
+read> firstNumber
+read> secondNumber
+read> operation
+if[operation == 1] {
+result = firstNumber + secondNumber
+}
+if[operation == 2] {
+result = firstNumber - secondNumber
+}
+if[operation == 3] {
+result = firstNumber * secondNumber
+}
+if[operation == 4] {
+result = firstNumber / secondNumber
+}
+if[operation == 5] {
+result = log(firstNumber)
+}
+if[operation == 6] {
+result = sqrt(firstNumber)
+}
+write> result
