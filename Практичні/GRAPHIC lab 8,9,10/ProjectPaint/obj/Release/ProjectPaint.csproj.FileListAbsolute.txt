@@ -1,0 +1,12 @@
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\bin\Release\ProjectPaint.exe.config
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\bin\Release\ProjectPaint.exe
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\bin\Release\ProjectPaint.pdb
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\obj\Release\ProjectPaint.csproj.AssemblyReference.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\obj\Release\ProjectPaint.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\obj\Release\ProjectPaint.Form1.resources
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\obj\Release\ProjectPaint.HelpForm.resources
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\obj\Release\ProjectPaint.Properties.Resources.resources
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\obj\Release\ProjectPaint.csproj.GenerateResource.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\obj\Release\ProjectPaint.csproj.CoreCompileInputs.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\obj\Release\ProjectPaint.exe
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\GRAPHIC lab 8,9,10\ProjectPaint\obj\Release\ProjectPaint.pdb
