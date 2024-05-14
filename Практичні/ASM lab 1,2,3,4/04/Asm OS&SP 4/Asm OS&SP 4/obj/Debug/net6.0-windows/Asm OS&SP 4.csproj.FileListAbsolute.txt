@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\bin\Debug\net6.0-windows\Asm OS&SP 4.exe
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\bin\Debug\net6.0-windows\Asm OS&SP 4.deps.json
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\bin\Debug\net6.0-windows\Asm OS&SP 4.runtimeconfig.json
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\bin\Debug\net6.0-windows\Asm OS&SP 4.dll
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\bin\Debug\net6.0-windows\Asm OS&SP 4.pdb
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\SimASM.Form1.resources
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.AssemblyInfo.cs
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.dll
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\refint\Asm OS&SP 4.dll
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.pdb
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.genruntimeconfig.cache
+C:\Users\User\source\repos\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\ref\Asm OS&SP 4.dll
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\bin\Debug\net6.0-windows\Asm OS&SP 4.exe
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\bin\Debug\net6.0-windows\Asm OS&SP 4.deps.json
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\bin\Debug\net6.0-windows\Asm OS&SP 4.runtimeconfig.json
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\bin\Debug\net6.0-windows\Asm OS&SP 4.dll
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\bin\Debug\net6.0-windows\Asm OS&SP 4.pdb
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.csproj.AssemblyReference.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\SimASM.Form1.resources
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.csproj.GenerateResource.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.AssemblyInfoInputs.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.AssemblyInfo.cs
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.csproj.CoreCompileInputs.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.dll
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\refint\Asm OS&SP 4.dll
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.pdb
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\Asm OS&SP 4.genruntimeconfig.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\04\Asm OS&SP 4\Asm OS&SP 4\obj\Debug\net6.0-windows\ref\Asm OS&SP 4.dll
