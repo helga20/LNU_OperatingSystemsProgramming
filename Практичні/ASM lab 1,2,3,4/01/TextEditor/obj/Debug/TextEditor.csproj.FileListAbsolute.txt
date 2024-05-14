@@ -1,0 +1,33 @@
+D:\Навчання\8 семестр\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Навчання\8 семестр\TextEditor\bin\Debug\TextEditor.exe
+D:\Навчання\8 семестр\TextEditor\bin\Debug\TextEditor.pdb
+D:\Навчання\8 семестр\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+D:\Навчання\8 семестр\TextEditor\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\8 семестр\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Навчання\8 семестр\TextEditor\obj\Debug\TextEditor.TextEditorForm.resources
+D:\Навчання\8 семестр\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Навчання\8 семестр\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Навчання\8 семестр\TextEditor\obj\Debug\TextEditor.exe
+D:\Навчання\8 семестр\TextEditor\obj\Debug\TextEditor.pdb
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\bin\Debug\TextEditor.exe
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Debug\TextEditor.TextEditorForm.resources
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Debug\TextEditor.exe
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Debug\TextEditor.pdb
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\bin\Debug\TextEditor.pdb
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor – копія – копія – копія\bin\Debug\TextEditor.exe.config
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor – копія – копія – копія\bin\Debug\TextEditor.exe
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor – копія – копія – копія\bin\Debug\TextEditor.pdb
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor – копія – копія – копія\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor – копія – копія – копія\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor – копія – копія – копія\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor – копія – копія – копія\obj\Debug\TextEditor.TextEditorForm.resources
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor – копія – копія – копія\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor – копія – копія – копія\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor – копія – копія – копія\obj\Debug\TextEditor.exe
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor – копія – копія – копія\obj\Debug\TextEditor.pdb

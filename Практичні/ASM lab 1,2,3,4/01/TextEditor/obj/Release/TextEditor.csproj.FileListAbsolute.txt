@@ -1,0 +1,11 @@
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\bin\Release\TextEditor.exe.config
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\bin\Release\TextEditor.exe
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\bin\Release\TextEditor.pdb
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Release\TextEditor.csproj.AssemblyReference.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Release\TextEditor.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Release\TextEditor.Properties.Resources.resources
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Release\TextEditor.TextEditorForm.resources
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Release\TextEditor.csproj.GenerateResource.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Release\TextEditor.csproj.CoreCompileInputs.cache
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Release\TextEditor.exe
+D:\Навчання\8 семестр\Операційні системи та системне програмування\Практичні\ASM lab 1,2,3,4\01\TextEditor\obj\Release\TextEditor.pdb

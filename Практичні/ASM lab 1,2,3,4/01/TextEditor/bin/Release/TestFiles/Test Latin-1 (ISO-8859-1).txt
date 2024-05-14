@@ -1,0 +1,4 @@
+English: "Hello, short sentence"
+Spanish: "Hola frase corta"
+French: "Bonjour, courte phrase"
+Ukrainian: "Привіт, невелике речення." (It don't work because the language is Ukrainian)

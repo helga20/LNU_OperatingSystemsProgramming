@@ -1,0 +1,5 @@
+English: "Hello, short sentence"
+Spanish: "Hola frase corta"
+French: "Bonjour, courte phrase"
+Japanese: "こんにちは、短文です"
+Ukrainian: "Привіт, невелике речення." 

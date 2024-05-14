@@ -1,0 +1,2 @@
+Ukrainian: "Привіт, невелике речення."
+English: "Hello, short sentence."
